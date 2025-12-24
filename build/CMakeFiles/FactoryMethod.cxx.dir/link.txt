@@ -1,1 +1,0 @@
-/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/FactoryMethod.cxx.dir/link.d "CMakeFiles/FactoryMethod.cxx.dir/CreationalPatterns/factory-method/FactoryMethod.cxx.o" -o FactoryMethod.cxx

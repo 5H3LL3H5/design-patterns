@@ -1,1 +1,0 @@
-/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/Facade.cxx.dir/link.d CMakeFiles/Facade.cxx.dir/StructuralPatterns/facade/Facade.cxx.o -o Facade.cxx

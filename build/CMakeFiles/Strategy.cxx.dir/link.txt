@@ -1,1 +1,0 @@
-/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/Strategy.cxx.dir/link.d CMakeFiles/Strategy.cxx.dir/BehaviroalPatterns/strategy/Strategy.cxx.o -o Strategy.cxx

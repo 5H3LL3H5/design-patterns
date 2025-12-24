@@ -1,1 +1,0 @@
-/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/ClassAdapter.cxx.dir/link.d CMakeFiles/ClassAdapter.cxx.dir/StructuralPatterns/adapter/ClassAdapter.cxx.o -o ClassAdapter.cxx

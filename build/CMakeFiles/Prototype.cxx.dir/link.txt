@@ -1,1 +1,0 @@
-/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/Prototype.cxx.dir/link.d CMakeFiles/Prototype.cxx.dir/CreationalPatterns/prototype/Prototype.cxx.o -o Prototype.cxx
