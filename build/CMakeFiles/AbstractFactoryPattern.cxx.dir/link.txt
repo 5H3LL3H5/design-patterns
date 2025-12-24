@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/AbstractFactoryPattern.cxx.dir/link.d "CMakeFiles/AbstractFactoryPattern.cxx.dir/CreationalPatterns/abstract-factory/AbstractFactoryPattern.cxx.o" -o AbstractFactoryPattern.cxx

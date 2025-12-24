@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/Memento.cxx.dir/link.d CMakeFiles/Memento.cxx.dir/BehaviroalPatterns/memento/Memento.cxx.o -o Memento.cxx

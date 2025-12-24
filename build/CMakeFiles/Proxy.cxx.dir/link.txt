@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/Proxy.cxx.dir/link.d CMakeFiles/Proxy.cxx.dir/StructuralPatterns/proxy/Proxy.cxx.o -o Proxy.cxx

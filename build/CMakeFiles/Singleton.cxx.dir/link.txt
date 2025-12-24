@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/Singleton.cxx.dir/link.d CMakeFiles/Singleton.cxx.dir/CreationalPatterns/singleton/Singleton.cxx.o -o Singleton.cxx
