@@ -2,18 +2,6 @@
 
 C++ Implementation for 23 Design Patterns
 
-## Embedded systems & testing-friendly patterns
-
-For embedded development with strong unit and integration testing of hardware interfaces, the following patterns in this repo are especially practical:
-
-- **Adapter** (`StructuralPatterns/adapter`): wrap vendor-specific drivers behind a testable interface so unit tests can swap in fakes or simulators.
-- **Facade** (`StructuralPatterns/facade`): provide a single entry point to coordinate peripherals during integration tests and reduce fixture setup complexity.
-- **Strategy** (`BehaviroalPatterns/strategy`): switch communication or control algorithms (e.g., different busses or PID tunings) without changing callers; tests can inject deterministic strategies.
-- **State** (`BehaviroalPatterns/state`): model device modes and transitions explicitly, making state-machine behavior easy to assert in unit tests.
-- **Command** (`BehaviroalPatterns/command`): queue and replay device actions, enabling scripted integration tests and rollback on failure.
-- **Observer** (`BehaviroalPatterns/observer`): capture interrupts/events and distribute them to listeners; in tests, observers can be mocked to validate signaling.
-- **Template Method** (`BehaviroalPatterns/template-method`): define test sequences (startup, self-test, shutdown) with overridable steps for hardware vs. simulator runs.
-
 #### Creational Patterns 
 - [Abstract Factory], families of product objects
 ![image](./images/AbstractFactory.png)
